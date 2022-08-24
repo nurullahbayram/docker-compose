@@ -1,7 +1,7 @@
 pipeline {
   agent any
   stages {
-    stage('') {
+    stage('milestone') {
       steps {
         echo 'write something as a script for first pipeline'
       }
